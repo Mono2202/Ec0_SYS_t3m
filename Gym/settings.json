@@ -1,0 +1,15 @@
+{
+    "agent_settings": {
+        "initial_energy": 200,
+        "initial_speed": 5
+    },
+
+    "gym_settings": {
+        "generation_count": 50,
+        "food_count": 3,
+        "screen_fps": 120,
+        "food_energy": 100,
+        "food_fitness": 10,
+        "agent_angle_change": 5
+    }
+}
