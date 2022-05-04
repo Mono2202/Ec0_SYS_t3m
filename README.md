@@ -1,7 +1,7 @@
 <h1 align="center"> Ec0_SYS_t3m 🐇🦊🍎 </h1>
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/69368659/166566749-72798a57-9130-47c1-b0a9-ddc7fe05be6e.png" alt="Chess x64 Logo" height="300" width="300">
+  <img src="https://user-images.githubusercontent.com/69368659/166566749-72798a57-9130-47c1-b0a9-ddc7fe05be6e.png" alt="Ec0_SYS_t3m Logo" height="300" width="300">
 </p>
 
 <br></br>
